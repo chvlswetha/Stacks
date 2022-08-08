@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.exe
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.deps.json
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.runtimeconfig.json
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.dll
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\bin\Debug\netcoreapp3.1\StackwithQueues.pdb
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.AssemblyInfo.cs
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.dll
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.pdb
+C:\KalAcademy\DSA\Stacks\StackwithQueues\StackwithQueues\obj\Debug\netcoreapp3.1\StackwithQueues.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.exe
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.deps.json
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.runtimeconfig.json
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.dll
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\bin\Debug\netcoreapp3.1\NextGreaterElement.pdb
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.AssemblyInfo.cs
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.dll
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.pdb
+C:\KalAcademy\DSA\Stacks\NextGreaterElement\NextGreaterElement\obj\Debug\netcoreapp3.1\NextGreaterElement.genruntimeconfig.cache

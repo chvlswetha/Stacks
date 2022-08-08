@@ -1,0 +1,14 @@
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.exe
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.deps.json
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.runtimeconfig.json
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.runtimeconfig.dev.json
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.dll
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\bin\Debug\netcoreapp3.1\StackReverse.pdb
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.csproj.AssemblyReference.cache
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.AssemblyInfoInputs.cache
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.AssemblyInfo.cs
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.csproj.CoreCompileInputs.cache
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.dll
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.pdb
+C:\KalAcademy\DSA\Stacks\StackReverse\StackReverse\obj\Debug\netcoreapp3.1\StackReverse.genruntimeconfig.cache

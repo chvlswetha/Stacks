@@ -1,0 +1,14 @@
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.csproj.AssemblyReference.cache
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.AssemblyInfoInputs.cache
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.AssemblyInfo.cs
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.csproj.CoreCompileInputs.cache
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.exe
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.deps.json
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.runtimeconfig.json
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.runtimeconfig.dev.json
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.dll
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\bin\Debug\netcoreapp3.1\QueuewithStacks.pdb
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.dll
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.pdb
+C:\Users\vchvukula\source\repos\QueuewithStacks\QueuewithStacks\obj\Debug\netcoreapp3.1\QueuewithStacks.genruntimeconfig.cache
